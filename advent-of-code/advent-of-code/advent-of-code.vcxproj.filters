@@ -27,9 +27,15 @@
     <ClCompile Include="2024\2024_day_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2025\2025_day_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2024\2024_solutions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2025\2025_solutions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
