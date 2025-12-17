@@ -39,6 +39,9 @@
     <ClCompile Include="2025\2025_day_4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2025\2025_day_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2024\2024_solutions.h">

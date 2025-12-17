@@ -1,5 +1,6 @@
 #pragma once
 
+#include <algorithm>
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -14,6 +15,7 @@ namespace year_2025
 	void day_2();
 	void day_3();
 	void day_4();
+    void day_5();
 }
 
 /*
@@ -32,7 +34,7 @@ void year_2025::day_x()
     ifstream myfile("2025/2025_day_x.txt");
     string line;
 
-    cout << "Answer: ";
+    cout << "Answer: " << endl;
     while (getline(myfile, line))
     {
 
