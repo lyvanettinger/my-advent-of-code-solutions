@@ -1,2 +1,2 @@
 # my-advent-of code solutions
- My bare bones solutions to some advent of code puzzles.
+My bare bones and mostly naive solutions to some advent of code puzzles (without inputs)
