@@ -136,6 +136,7 @@
     <ClCompile Include="2025\2025_day_3.cpp" />
     <ClCompile Include="2025\2025_day_4.cpp" />
     <ClCompile Include="2025\2025_day_5.cpp" />
+    <ClCompile Include="2025\2025_day_6.cpp" />
     <ClCompile Include="advent-of-code.cpp" />
   </ItemGroup>
   <ItemGroup>

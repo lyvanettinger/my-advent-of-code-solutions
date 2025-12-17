@@ -11,7 +11,8 @@ int main()
     //year_2025::day_2();
     //year_2025::day_3();
     //year_2025::day_4();
-    year_2025::day_5();
+    //year_2025::day_5();
+    year_2025::day_6();
 
     std::cin.get();
 

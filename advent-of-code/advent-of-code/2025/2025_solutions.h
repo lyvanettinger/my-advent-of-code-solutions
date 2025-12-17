@@ -16,6 +16,7 @@ namespace year_2025
 	void day_3();
 	void day_4();
     void day_5();
+    void day_6();
 }
 
 /*
