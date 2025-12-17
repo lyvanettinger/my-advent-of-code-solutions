@@ -7,7 +7,7 @@ void year_2025::day_1()
     cout << "----------------" << endl;
     cout << "Day 1: " << endl;
 
-    ifstream myfile("2025/2025_day1.txt");
+    ifstream myfile("2025/2025_day_1.txt");
     string line;
 
     // Start at 50
